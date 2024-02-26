@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @moradicse
+- 👋 Hi, I am Ali,
 - 👀 I’m interested in Computer Networks, Cloud Infrastructure and Services and Generally IT Engineering.
-- 🌱 I’m currently learning Cloud Infrastructure.
-- 💞️ I’m looking to collaborate on Computer Networks and Cloud-based Services.
-- 📫 How to reach me @moradicse on any Social Netwoks.
+- 🌱 I’m currently learning Cloud and Networking.
 
 <!---
 moradicse/moradicse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
